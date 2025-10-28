@@ -11,11 +11,7 @@ Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional
 - Voll kompatibel mit Full Site Editing (FSE)
 
 ## Installation
-```bash
-npm install
-npm run build
-```
-Danach das Plugin in WordPress aktivieren.
+Das Plugin in WordPress hochladen und aktivieren.
 
 ## Struktur
 ```
