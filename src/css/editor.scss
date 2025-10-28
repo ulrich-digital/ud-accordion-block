@@ -1,0 +1,24 @@
+/* =============================================================== *\ 
+    Editor
+\* =============================================================== */
+
+.wp-block-ud-accordion-block {
+	overflow: hidden;
+
+	.ud-accordion__content {
+		max-height: none;
+		overflow: visible;
+		transition: none;
+
+		.ud-accordion__content-inner {
+			.wp-block-ud-accordion-block {
+				margin-top: 1rem;
+				margin-bottom: 1rem;
+			}
+		}
+	}
+
+	.ud-accordion__toggle-switch {
+		margin: 1em 0;
+	}
+}

@@ -1,0 +1,33 @@
+{
+    "apiVersion": 2,
+    "name": "ud/accordion-block",
+    "title": "Akkordeon-Block",
+    "category": "layout",
+    "icon": "menu",
+    "description": "Ein Akkordeon-Block mit editierbarem Titel. Kann bestimmte Blöcke aufnehmen.",
+    "editorStyle": "file:./build/editor-style.css",
+    "style": "file:./build/frontend-style.css",
+    "editorScript": "file:./build/editor-script.js",
+    "script": "file:./build/frontend-script.js",
+
+    "supports": {
+        "html": false
+    },
+    "attributes": {
+        "title": {
+            "type": "string",
+            "default": "Details"
+        },
+        "initiallyOpen": {
+            "type": "boolean",
+            "default": false
+        },
+        "tags": {
+            "type": "string",
+            "source": "attribute",
+            "selector": "div",
+            "attribute": "data-tags",
+            "default": "[]"
+        }
+    }
+}
