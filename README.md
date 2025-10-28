@@ -3,16 +3,19 @@
 Interaktiver Akkordeon-Block für den WordPress-Block-Editor.
 Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional geöffneter Startansicht.
 
-
-![Frontend-Ansicht](./assets/verschachteltes_accordion.jpg)
-*Abbildung: Das Akkordion erlaubt es auch, verschachtelt zu werden.*
-
 ## Funktionen
 - Ein- und ausklappbare Bereiche mit sanfter Animation
 - Editierbarer Titel (`title`) und Option „initiallyOpen“
 - Auswahl erlaubter Blöcke über Plugin-Einstellungen
 - Getrennte Editor- und Frontend-Skripte für Performance
 - Voll kompatibel mit Full Site Editing (FSE)
+
+![Frontend-Ansicht](./assets/verschachteltes_accordion.jpg)
+*Abbildung: Das Akkordion erlaubt es auch, verschachtelt zu werden.*
+
+![Editor-Ansicht](./assets/accordion_versachachtelt_backend.jpg)
+*Abbildung: Editor-Ansicht des verschachtelten Accordions.*
+
 
 ## Installation
 Das Plugin in WordPress hochladen und aktivieren.
