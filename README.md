@@ -1,13 +1,13 @@
 # UD Block: Accordion
 
-Interaktiver Akkordeon-Block für den WordPress-Block-Editor.  
+Interaktiver Akkordeon-Block für den WordPress-Block-Editor.
 Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional geöffneter Startansicht.
 
 ## Funktionen
-- Ein- und ausklappbare Bereiche mit sanfter Animation  
-- Editierbarer Titel (`title`) und Option „initiallyOpen“  
-- Auswahl erlaubter Blöcke über Plugin-Einstellungen  
-- Getrennte Editor- und Frontend-Skripte für Performance  
+- Ein- und ausklappbare Bereiche mit sanfter Animation
+- Editierbarer Titel (`title`) und Option „initiallyOpen“
+- Auswahl erlaubter Blöcke über Plugin-Einstellungen
+- Getrennte Editor- und Frontend-Skripte für Performance
 - Voll kompatibel mit Full Site Editing (FSE)
 
 ## Installation
@@ -24,10 +24,13 @@ ud-accordion-block.php
 ```
 
 ## Lizenz
-GPL v2 or later  
+GPL v2 or later
 © ulrich.digital gmbh – https://ulrich.digital
 
 <!--
 Interne Verwendung:
-Eingesetzt in den Projekten illgau.ch, schule.illgau.ch und bbzg.ch
+Eingesetzt in den Projekten
+- illgau.ch
+- schule.illgau.ch
+- bbzg.ch
 -->
