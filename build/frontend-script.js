@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }, 80);
     });
-    resizeObserver.observe(content);
+    resizeObserver.observe(content.querySelector(".ud-accordion__content-inner"));
     updateState();
   });
 
