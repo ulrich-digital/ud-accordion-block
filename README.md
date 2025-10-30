@@ -22,15 +22,6 @@ Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional
 ## Installation
 Das Plugin in WordPress hochladen und aktivieren.
 
-## Struktur
-```
-includes/       # Block-Registrierung, Enqueue, Einstellungen
-src/js/         # edit.js, save.js, frontend.js
-src/css/        # editor.scss, frontend.scss
-build/          # Kompilierte Dateien
-block.json      # Block-Metadaten
-ud-accordion-block.php
-```
 
 ## Autor
 
