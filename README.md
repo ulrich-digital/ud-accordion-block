@@ -10,7 +10,7 @@ Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional
 - Getrennte Editor- und Frontend-Skripte für Performance
 - Voll kompatibel mit Full Site Editing (FSE)
 
-![Frontend-Ansicht](./assets/verschachteltes_accordion.jpg)
+![Frontend-Ansicht](./assets/ud-accordion-block.jpg)
 *Abbildung: Frontend-Ansicht - das Akkordion erlaubt es auch, verschachtelt zu werden.*
 
 ![Editor-Ansicht](./assets/accordion_versachachtelt_backend.jpg)
