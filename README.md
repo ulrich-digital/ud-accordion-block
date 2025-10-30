@@ -34,7 +34,7 @@ ud-accordion-block.php
 
 ## Autor
 
-[https://ulrich.digital](https://ulrich.digital)
+[ulrich.digital](https://ulrich.digital)
 
 ---
 
