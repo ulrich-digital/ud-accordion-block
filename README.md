@@ -15,7 +15,7 @@ Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional
 ![Frontend-Ansicht](./assets/ud-accordion-block.jpg)
 *Abbildung: Frontend-Ansicht - das Akkordion erlaubt es auch, verschachtelt zu werden.*
 
-![Editor-Ansicht](./assets/accordion_versachachtelt_backend.jpg)
+![Editor-Ansicht](./assets/editor-view.png)
 *Abbildung: Editor-Ansicht des verschachtelten Accordions.*
 
 
