@@ -10,6 +10,8 @@ Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional
 - Getrennte Editor- und Frontend-Skripte für Performance
 - Voll kompatibel mit Full Site Editing (FSE)
 
+## Screenshots
+
 ![Frontend-Ansicht](./assets/ud-accordion-block.jpg)
 *Abbildung: Frontend-Ansicht - das Akkordion erlaubt es auch, verschachtelt zu werden.*
 
@@ -30,9 +32,17 @@ block.json      # Block-Metadaten
 ud-accordion-block.php
 ```
 
+## Autor
+
+**ulrich.digital gmbh**
+[https://ulrich.digital](https://ulrich.digital)
+
+---
+
 ## Lizenz
+
 GPL v2 or later
-© ulrich.digital gmbh – https://ulrich.digital
+[https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
 
 <!--
 Interne Verwendung:
