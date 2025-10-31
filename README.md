@@ -19,10 +19,6 @@ Er ermöglicht ein- und ausklappbare Inhalte mit editierbarem Titel und optional
 *Abbildung: Editor-Ansicht des verschachtelten Accordions.*
 
 
-## Installation
-Das Plugin in WordPress hochladen und aktivieren.
-
-
 ## Autor
 
 [ulrich.digital gmbh](https://ulrich.digital)
